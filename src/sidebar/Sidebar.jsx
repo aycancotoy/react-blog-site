@@ -6,7 +6,7 @@ export default function Sidebar() {
       <span className="sidebarTitle">ABOUT ME</span>
       <div className="sidebarItem">
         <img
-          src="https://i.picsum.photos/id/544/200/200.jpg?hmac=iIsE7MkJ1i0DzyQjD7hXFjiVpz8uukzJTk9XCNuWS8c"
+          src="https://i.picsum.photos/id/466/300/300.jpg?hmac=tHI02ySmr6L8izYV3EYcmNA0WopDkHqFzLTGC4BIc6Q"
           alt=""
         />
         <p>
