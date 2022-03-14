@@ -20,8 +20,12 @@ export default function Post() {
       <p className="postDesc">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus,
         voluptates neque unde itaque, eligendi mollitia accusamus recusandae
-        reprehenderit impedit cumque ducimus ratione ex praesentium minima odit!
-        Quasi corrupti quis eum?Lorem, ipsum dolor sit amet consectetur
+        reprehenderit impedit cumque ducimus ratione ex praesentium minima
+        odiQuasi corrupti quis eum?Lorem, ipsum dolor sit amet consectetur
+        adipisicin Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus,
+        voluptates neque unde itaque, eligendi mollitia accusamus recusandae
+        reprehenderit impedit cumque ducimus ratione ex praesentium minima
+        odiQuasi corrupti quis eum?Lorem, ipsum dolor sit amet consectetur
         adipisicin
       </p>
     </div>
