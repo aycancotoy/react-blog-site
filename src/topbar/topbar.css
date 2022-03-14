@@ -9,13 +9,24 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
+.topCenter {
+    flex: 6;
+}
+
 .topLeft, .topRight {
     flex: 3;
-    background-color: tomato;     
+    /*background-color: tomato;*/     
     display: flex;
     align-items: center;
     justify-content: center;
 
+}
+
+.topIcon {
+    font-size: 20px;
+    margin-right: 10px;
+    color: #444;
+    cursor: pointer;
 }
 
 .topImg {
@@ -25,6 +36,24 @@
     object-fit: cover;
 }
 
-.topCenter {
-    flex: 6;
+.topList {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.topListItem {
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.topSearchIcon {
+    font-size: 18px;
+    color: #666;
+    cursor: pointer;
+    margin-left: 15px;
 }
