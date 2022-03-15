@@ -22,7 +22,7 @@ export default function SinglePost() {
           </span>
           <span className="singlePostDate">1 hour ago</span>
         </div>
-        <p>
+        <p className="singlePostDesc">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi eveniet
           vel debitis eligendi quidem facere nihil aut laboriosam, amet
           reiciendis soluta, quis aperiam, assumenda impedit veritatis tempore
